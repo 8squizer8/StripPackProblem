@@ -4,4 +4,3 @@ numpy
 plotly
 pulp
 openpyxl
-gurobipy  <-- Adicione isto
