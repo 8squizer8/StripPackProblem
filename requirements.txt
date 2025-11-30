@@ -4,4 +4,5 @@ numpy
 plotly
 pulp
 openpyxl
-gurobipy  <-- Adicione isto
+gurobipy 
+matplotlib
